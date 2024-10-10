@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: Rafza's Portofolio # the website title (if blank, full name will be used instead)
-first_name: Rafza 
+first_name: Rafza
 middle_name: Ray
 last_name: Firdaus
 email: rafzarf@outlook.com
@@ -133,7 +133,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: rafzarf # blog_name will be displayed in your blog page
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -162,7 +162,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: rafzarf # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
