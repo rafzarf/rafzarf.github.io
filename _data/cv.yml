@@ -2,96 +2,84 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Rafza Ray Firdaus
+    - name: Location
+      value: Bandung, Indonesia
+    - name: Contact
+      value: (+62) 851-7239-2801 | rafzarf@outlook.com
+    - name: Links
+      value: rafzarf.github.io | www.linkedin.com/in/rafzarf
     - name: Languages
-      value: English, German
+      value: Indonesian (Native), English (Professional Working), Mandarin Chinese (Elementary)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Applied Science, Majoring in Automation Engineering
+      institution: Bandung Polytechnic for Manufacturing, Bandung, Indonesia
+      year: June 2020 - December 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Subject-specific expertise
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Control System and Modelling
+            - PLC and SCADA/MES System
+            - IoT and Embedded System
+            - Machine Learning and Software Engineering
+    - title: Exchange Student
+      institution: Chung Yuan Christian University (中原大學), Taoyuan, Taiwan
+      year: September 2022 – January 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Experiment: "Optimization of Machining Parameters for Surface Roughness in Milling Machine."
+        - Moldex3D CAE Basic Training Certification (40 hours)
+        - Techman Robot Training Certification (40 hours)
 
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Internship
+      institution: Bandung Polytechnic for Manufacturing, Bandung, Indonesia
+      year: August 2023 – October 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Mentoring students in hands-on laboratory practice
+        - Development and enhancement of learning modules
+        - Equipment maintenance and machine repair
+        - Participation in teaching-aid production for industrial clients
+    - title: Intensive Training - MSIB: Machine Learning Learning Path
+      institution: BANGKIT ACADEMY 2023 BATCH 1, Bandung, Indonesia
+      year: February – August 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Developed core AI and Machine Learning skills
+        - Applied skills in a real-world product-based capstone project
+        - Obtained TensorFlow Developer Certification
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Certificates
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Tensorflow Developer Certificate
+    - Electrical Maintenance Junior Engineer
+    - Moldex3D CAE Basic Training Certification
+    - Techman Robot Training Certification
+    - CYCU Exchange Program Certificate
+    - TOEIC (Listening & Reading) – Score: 790
+
+- title: Technical Expertise
+  type: nested_list
+  contents:
+    - title: Automation Engineering
+      items:
+        - PLC programming, HMI design, electrical wiring, PCB design, microcontroller integration
+    - title: Modeling & Simulation
+      items:
+        - MATLAB, Moldex3D, SolidWorks
+    - title: CNC Operation
+      items:
+        - Operating and programming CNC machines
+    - title: Programming Languages
+      items:
+        - C/C++, Python, SQL, Go
+    - title: Machine Learning & AI
+      items:
+        - TensorFlow, PyTorch, FastAPI
+    - title: Version Control & Collaboration
+      items:
+        - Git
