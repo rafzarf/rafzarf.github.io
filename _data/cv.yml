@@ -27,7 +27,7 @@
             - Machine Learning and Software Engineering
     - title: Exchange Student
       institution: Chung Yuan Christian University (中原大學), Taoyuan, Taiwan
-      year: September 2022 – January 2023
+      year: September 2022 - January 2023
       description:
         - Experiment: "Optimization of Machining Parameters for Surface Roughness in Milling Machine."
         - Moldex3D CAE Basic Training Certification (40 hours)
@@ -38,15 +38,15 @@
   contents:
     - title: Internship
       institution: Bandung Polytechnic for Manufacturing, Bandung, Indonesia
-      year: August 2023 – October 2023
+      year: August 2023 - October 2023
       description:
         - Mentoring students in hands-on laboratory practice
         - Development and enhancement of learning modules
         - Equipment maintenance and machine repair
         - Participation in teaching-aid production for industrial clients
-    - title: Intensive Training - MSIB: Machine Learning Learning Path
+    - title: Intensive Training - MSIB (Machine Learning Learning Path)
       institution: BANGKIT ACADEMY 2023 BATCH 1, Bandung, Indonesia
-      year: February – August 2023
+      year: February - August 2023
       description:
         - Developed core AI and Machine Learning skills
         - Applied skills in a real-world product-based capstone project
@@ -60,7 +60,7 @@
     - Moldex3D CAE Basic Training Certification
     - Techman Robot Training Certification
     - CYCU Exchange Program Certificate
-    - TOEIC (Listening & Reading) – Score: 790
+    - TOEIC (Listening & Reading) - Score: 790
 
 - title: Technical Expertise
   type: nested_list
