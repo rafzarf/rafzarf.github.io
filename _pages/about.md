@@ -20,7 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I am Rafza!
 
-
 I am a final-year undergraduate student at the Department of Automation Manufacturing and Mechatronics at Bandung Polytechnic for Manufacturing (Polman Bandung). With a passion for cutting-edge technologies, my interests revolve around Artificial Intelligence/Machine Learning, Automation, and Robotics.
 
 I obtained my tensorflow certificate developer at 2023 and currently working on an undergraduate thesis focused on developing a predictive analytical model for manufacturing scenarios.
