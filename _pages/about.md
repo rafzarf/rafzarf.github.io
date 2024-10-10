@@ -8,18 +8,23 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I am Rafza!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a final-year undergraduate student at the Department of Automation Manufacturing and Mechatronics at Bandung Polytechnic for Manufacturing (Polman Bandung). With a passion for cutting-edge technologies, my interests revolve around Artificial Intelligence/Machine Learning, Automation, and Robotics.
+
+I obtained my tensorflow certificate developer at 2023 and currently working on an undergraduate thesis focused on developing a predictive analytical model for manufacturing scenarios.
+
+In parallel with his academic pursuits, Rafza is actively engaged in building side projects centered on embedded systems and mechatronics.
+
+While doing my thesis, I am building side-project around embedded system, mechatronics, to create an impactful solution for society.
